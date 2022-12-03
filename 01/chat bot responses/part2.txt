@@ -1,0 +1,6 @@
+To solve this problem, you can use the same approach as before, but instead of finding the Elf carrying the most Calories, you can keep track of the top three Elves carrying the most Calories. You can do this by maintaining a list of the top three Elves and their total Calories.
+
+Here is some pseudocode that shows how you might approach this problem:
+<!-- code from openai_deno_2.ts without import -->
+
+This is just one possible way to solve the problem, and there may be other ways to approach it as well. The important thing is to break the problem down into smaller steps and tackle each step individually. I hope this helps!

@@ -1,0 +1,2 @@
+It just returned something like `tests/openai_tests_broken.sh`, but note that those tests fail because of
+error in calling run_test (function expects 2 args, but it fills just one).
